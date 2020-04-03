@@ -1,3 +1,4 @@
 Rencana Mahasiswa
 -Membuat Nama Mahasiswa
 -No Absen
+-Nomor Induk Mahasiswa
